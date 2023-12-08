@@ -1,8 +1,9 @@
 {
-  "users":[
-      "admin":{
-          "password": "admin",
-          "status": "admin"
-      }
-  ]
+	"users": [
+		"admin",
+		{
+			"password": "admin",
+			"status": "admin"
+		}
+	]
 }
