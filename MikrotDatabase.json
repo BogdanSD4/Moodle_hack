@@ -1,1 +1,8 @@
-# Moodle_hack
+{
+  "users":[
+      "admin":{
+          "password": "admin",
+          "status": "admin"
+      }
+  ]
+}
