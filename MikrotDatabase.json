@@ -1,9 +1,1 @@
-{
-  "users": {
-    "admin": {
-      "password": "admin",
-      "status": "admin",
-      "properties": {}
-    }
-  }
-}
+{"selectedMode":12}
