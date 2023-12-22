@@ -2,7 +2,8 @@
   "users": {
     "admin": {
       "password": "admin",
-      "status": "admin"
+      "status": "admin",
+      "Properties": {}
     }
   }
 }
