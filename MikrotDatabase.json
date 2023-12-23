@@ -1,9 +1,15 @@
 {
-  "users": {
-    "admin": {
-      "password": "admin",
-      "status": "admin",
-      "properties": {}
+  "SectionUsers":{
+    "users":{
+      "admin":{
+        "password":"admin",
+        "status":"admin",
+        "properties":{
+          "clientAccountProp":{
+            "selectedMode":0
+          }
+        }
+      }
     }
   }
 }
