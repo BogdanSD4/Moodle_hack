@@ -1,5 +1,5 @@
 {
-  "SectionUsers":{
+  "sectionUsers":{
     "users":{
       "admin":{
         "password":"admin",
