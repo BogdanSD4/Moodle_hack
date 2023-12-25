@@ -6,7 +6,8 @@
         "status": "admin",
         "properties": {
           "clientAccountProp": {
-            "selectedMode": 0
+            "selectedMode": 0,
+            "menuDataSave": null
           }
         }
       }
