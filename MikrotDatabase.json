@@ -7,7 +7,7 @@
         "properties": {
           "clientAccountProp": {
             "selectedMode": 0,
-            "menuDataSave": null
+            "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           }
         }
       }
