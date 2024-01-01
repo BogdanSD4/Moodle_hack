@@ -12,8 +12,8 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "Name": "ip",
-                "ViewName": "ip",
+                "Name": "ip target",
+                "ViewName": "ip target",
                 "SubCommands": []
               }
             ]
