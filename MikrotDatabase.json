@@ -15,6 +15,16 @@
                 "Name": "ip target",
                 "ViewName": "ip target",
                 "SubCommands": []
+              },
+              {
+                "Name": "ip traffic-flow",
+                "ViewName": "ip traffic-flow",
+                "SubCommands": []
+              },
+              {
+                "Name": "ip traffic-flow target",
+                "ViewName": "ip traffic-flow target",
+                "SubCommands": []
               }
             ]
           }
