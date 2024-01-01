@@ -12,11 +12,6 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "Name": "ip target",
-                "ViewName": "ip target",
-                "SubCommands": []
-              },
-              {
                 "Name": "ip traffic-flow",
                 "ViewName": "ip traffic-flow",
                 "SubCommands": []
