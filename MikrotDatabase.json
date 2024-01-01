@@ -12,23 +12,8 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "Name": "ipq",
-                "ViewName": "ipq",
-                "SubCommands": []
-              },
-              {
-                "Name": "ipqwer",
-                "ViewName": "ipqwer",
-                "SubCommands": []
-              },
-              {
-                "Name": "ipqwert",
-                "ViewName": "ipqwert",
-                "SubCommands": []
-              },
-              {
-                "Name": "io",
-                "ViewName": "io",
+                "Name": "iop",
+                "ViewName": "iop",
                 "SubCommands": []
               }
             ]
