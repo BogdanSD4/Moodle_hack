@@ -10,18 +10,7 @@
             "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           },
           "commandProp": {
-            "mikrotCommands": [
-              {
-                "Name": "ip traffic-flow target",
-                "ViewName": "ip traffic-flow target",
-                "SubCommands": []
-              },
-              {
-                "Name": "ip ",
-                "ViewName": "ip ",
-                "SubCommands": []
-              }
-            ]
+            "mikrotCommands": []
           }
         }
       }
