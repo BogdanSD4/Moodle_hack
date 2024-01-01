@@ -12,11 +12,6 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "Name": "ip",
-                "ViewName": "ip",
-                "SubCommands": []
-              },
-              {
                 "Name": "ipq",
                 "ViewName": "ipq",
                 "SubCommands": []
@@ -29,16 +24,6 @@
               {
                 "Name": "ipqwert",
                 "ViewName": "ipqwert",
-                "SubCommands": []
-              },
-              {
-                "Name": "ipqwerty",
-                "ViewName": "ipqwerty",
-                "SubCommands": []
-              },
-              {
-                "Name": "ipqwertyu",
-                "ViewName": "ipqwertyu",
                 "SubCommands": []
               },
               {
