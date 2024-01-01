@@ -22,16 +22,6 @@
                 "SubCommands": []
               },
               {
-                "Name": "ipqw",
-                "ViewName": "ipqw",
-                "SubCommands": []
-              },
-              {
-                "Name": "ipqwe",
-                "ViewName": "ipqwe",
-                "SubCommands": []
-              },
-              {
                 "Name": "ipqwer",
                 "ViewName": "ipqwer",
                 "SubCommands": []
@@ -49,6 +39,11 @@
               {
                 "Name": "ipqwertyu",
                 "ViewName": "ipqwertyu",
+                "SubCommands": []
+              },
+              {
+                "Name": "io",
+                "ViewName": "io",
                 "SubCommands": []
               }
             ]
