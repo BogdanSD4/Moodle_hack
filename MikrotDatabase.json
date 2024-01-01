@@ -12,13 +12,8 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "Name": "q",
-                "ViewName": "q",
-                "SubCommands": []
-              },
-              {
-                "Name": "qw",
-                "ViewName": "qw",
+                "Name": "ip",
+                "ViewName": "ip",
                 "SubCommands": []
               }
             ]
