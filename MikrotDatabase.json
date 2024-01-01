@@ -10,7 +10,18 @@
             "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           },
           "commandProp": {
-            "mikrotCommands": []
+            "mikrotCommands": [
+              {
+                "Name": "q",
+                "ViewName": "q",
+                "SubCommands": []
+              },
+              {
+                "Name": "qw",
+                "ViewName": "qw",
+                "SubCommands": []
+              }
+            ]
           }
         }
       }
