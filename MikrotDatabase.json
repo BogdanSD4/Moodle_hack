@@ -10,7 +10,48 @@
             "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           },
           "commandProp": {
-            "mikrotCommands": []
+            "mikrotCommands": [
+              {
+                "Name": "ip",
+                "ViewName": "ip",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipq",
+                "ViewName": "ipq",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipqw",
+                "ViewName": "ipqw",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipqwe",
+                "ViewName": "ipqwe",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipqwer",
+                "ViewName": "ipqwer",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipqwert",
+                "ViewName": "ipqwert",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipqwerty",
+                "ViewName": "ipqwerty",
+                "SubCommands": []
+              },
+              {
+                "Name": "ipqwertyu",
+                "ViewName": "ipqwertyu",
+                "SubCommands": []
+              }
+            ]
           }
         }
       }
