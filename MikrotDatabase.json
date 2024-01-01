@@ -10,13 +10,7 @@
             "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           },
           "commandProp": {
-            "mikrotCommands": [
-              {
-                "Name": "iop",
-                "ViewName": "iop",
-                "SubCommands": []
-              }
-            ]
+            "mikrotCommands": []
           }
         }
       }
