@@ -25,6 +25,31 @@
                 "Name": "ipo",
                 "ViewName": "ipo",
                 "SubCommands": []
+              },
+              {
+                "Name": "e",
+                "ViewName": "e",
+                "SubCommands": []
+              },
+              {
+                "Name": "er",
+                "ViewName": "er",
+                "SubCommands": []
+              },
+              {
+                "Name": "ert",
+                "ViewName": "ert",
+                "SubCommands": []
+              },
+              {
+                "Name": "erty",
+                "ViewName": "erty",
+                "SubCommands": []
+              },
+              {
+                "Name": "ertyu",
+                "ViewName": "ertyu",
+                "SubCommands": []
               }
             ]
           }
