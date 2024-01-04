@@ -45,6 +45,11 @@
                 "Name": "qweryiop",
                 "ViewName": "qweryiop",
                 "SubCommands": []
+              },
+              {
+                "Name": "ip traffic-flow print",
+                "ViewName": "ip traffic-flow print",
+                "SubCommands": []
               }
             ]
           }
