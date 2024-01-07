@@ -9,20 +9,7 @@
             "menuIndex": 0,
             "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           },
-          "commandProp": {
-            "mikrotCommands": [
-              {
-                "Name": "ip traffic-flow target print",
-                "ViewName": "ip traffic-flow target print",
-                "SubCommands": []
-              },
-              {
-                "Name": "ip traffic-flow print",
-                "ViewName": "ip traffic-flow print",
-                "SubCommands": []
-              }
-            ]
-          }
+          "commandProp": {}
         }
       }
     }
