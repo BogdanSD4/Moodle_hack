@@ -6,7 +6,7 @@
         "status": "admin",
         "properties": {
           "clientAccountProp": {
-            "menuIndex": 1,
+            "menuIndex": 0,
             "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
           },
           "commandProp": {
