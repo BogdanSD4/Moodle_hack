@@ -7,7 +7,7 @@
         "properties": {
           "clientAccountProp": {
             "menuIndex": 0,
-            "menuDataSave": "{\"id\":\"192.168.88.254\",\"lodin\":\"admin\",\"password\":\"admin\"}"
+            "menuDataSave": ""
           },
           "commandProp": {
             "mikrotCommands": [
