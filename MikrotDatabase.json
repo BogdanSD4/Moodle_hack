@@ -19,55 +19,55 @@
                 "SubCommands": []
               },
               {
-                "SelectedState": true,
-                "StaticState": true,
+                "SelectedState": false,
+                "StaticState": false,
                 "Name": "ip traffic-flow print",
                 "ViewName": "ip traffic-flow print",
                 "SubCommands": [
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "enabled",
                     "ViewName": "enabled"
                   },
                   {
-                    "SelectedState": true,
-                    "StaticState": true,
+                    "SelectedState": false,
+                    "StaticState": false,
                     "Name": "interfaces",
                     "ViewName": "interfaces"
                   },
                   {
-                    "SelectedState": true,
-                    "StaticState": true,
+                    "SelectedState": false,
+                    "StaticState": false,
                     "Name": "cache-entries",
                     "ViewName": "cache-entries"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "active-flow-timeout",
                     "ViewName": "active-flow-timeout"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "inactive-flow-timeout",
                     "ViewName": "inactive-flow-timeout"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "packet-sampling",
                     "ViewName": "packet-sampling"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "sampling-interval",
                     "ViewName": "sampling-interval"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "sampling-space",
                     "ViewName": "sampling-space"
@@ -76,13 +76,13 @@
               },
               {
                 "SelectedState": false,
-                "StaticState": false,
+                "StaticState": true,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
                 "SubCommands": [
                   {
                     "SelectedState": false,
-                    "StaticState": false,
+                    "StaticState": true,
                     "Name": "name",
                     "ViewName": "name"
                   }
