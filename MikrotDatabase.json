@@ -16,7 +16,56 @@
                 "StaticState": false,
                 "Name": "ip traffic-flow target print",
                 "ViewName": "ip traffic-flow target print",
-                "SubCommands": []
+                "SubCommands": [
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": ".id",
+                    "ViewName": ".id"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "src-address",
+                    "ViewName": "src-address"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "dst-address",
+                    "ViewName": "dst-address"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "port",
+                    "ViewName": "port"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "version",
+                    "ViewName": "version"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "v9-template-refresh",
+                    "ViewName": "v9-template-refresh"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "v9-template-timeout",
+                    "ViewName": "v9-template-timeout"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "disabled",
+                    "ViewName": "disabled"
+                  }
+                ]
               },
               {
                 "SelectedState": false,
@@ -75,14 +124,14 @@
                 ]
               },
               {
-                "SelectedState": false,
-                "StaticState": true,
+                "SelectedState": true,
+                "StaticState": false,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
                 "SubCommands": [
                   {
-                    "SelectedState": false,
-                    "StaticState": true,
+                    "SelectedState": true,
+                    "StaticState": false,
                     "Name": "name",
                     "ViewName": "name"
                   }
