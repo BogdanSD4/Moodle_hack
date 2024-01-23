@@ -124,13 +124,13 @@
                 ]
               },
               {
-                "SelectedState": true,
+                "SelectedState": false,
                 "StaticState": false,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
                 "SubCommands": [
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": false,
                     "Name": "name",
                     "ViewName": "name"
