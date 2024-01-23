@@ -22,8 +22,8 @@
                 "SubCommands": []
               },
               {
-                "Name": "system i",
-                "ViewName": "system i",
+                "Name": "system identity print",
+                "ViewName": "system identity print",
                 "SubCommands": []
               }
             ]
