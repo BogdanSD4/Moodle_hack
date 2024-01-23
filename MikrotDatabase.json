@@ -12,19 +12,81 @@
           "commandProp": {
             "mikrotCommands": [
               {
+                "SelectedState": false,
+                "StaticState": false,
                 "Name": "ip traffic-flow target print",
                 "ViewName": "ip traffic-flow target print",
                 "SubCommands": []
               },
               {
+                "SelectedState": true,
+                "StaticState": true,
                 "Name": "ip traffic-flow print",
                 "ViewName": "ip traffic-flow print",
-                "SubCommands": []
+                "SubCommands": [
+                  {
+                    "SelectedState": true,
+                    "StaticState": false,
+                    "Name": "enabled",
+                    "ViewName": "enabled"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "interfaces",
+                    "ViewName": "interfaces"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "cache-entries",
+                    "ViewName": "cache-entries"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": false,
+                    "Name": "active-flow-timeout",
+                    "ViewName": "active-flow-timeout"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": false,
+                    "Name": "inactive-flow-timeout",
+                    "ViewName": "inactive-flow-timeout"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": false,
+                    "Name": "packet-sampling",
+                    "ViewName": "packet-sampling"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": false,
+                    "Name": "sampling-interval",
+                    "ViewName": "sampling-interval"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": false,
+                    "Name": "sampling-space",
+                    "ViewName": "sampling-space"
+                  }
+                ]
               },
               {
+                "SelectedState": false,
+                "StaticState": false,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
-                "SubCommands": []
+                "SubCommands": [
+                  {
+                    "SelectedState": false,
+                    "StaticState": false,
+                    "Name": "name",
+                    "ViewName": "name"
+                  }
+                ]
               }
             ]
           }
