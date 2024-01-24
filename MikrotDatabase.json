@@ -136,6 +136,460 @@
                     "ViewName": "disabled"
                   }
                 ]
+              },
+              {
+                "SelectedState": true,
+                "StaticState": false,
+                "Name": "snmp print",
+                "ViewName": "snmp print",
+                "SubCommands": [
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "enabled",
+                    "ViewName": "enabled"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "contact",
+                    "ViewName": "contact"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "location",
+                    "ViewName": "location"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "engine-id-suffix",
+                    "ViewName": "engine-id-suffix"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "engine-id",
+                    "ViewName": "engine-id"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "src-address",
+                    "ViewName": "src-address"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "trap-target",
+                    "ViewName": "trap-target"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "trap-community",
+                    "ViewName": "trap-community"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "trap-version",
+                    "ViewName": "trap-version"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "trap-generators",
+                    "ViewName": "trap-generators"
+                  },
+                  {
+                    "SelectedState": true,
+                    "StaticState": true,
+                    "Name": "vrf",
+                    "ViewName": "vrf"
+                  }
+                ]
+              },
+              {
+                "SelectedState": true,
+                "StaticState": false,
+                "Name": "interface ethernet print",
+                "ViewName": "interface ethernet print",
+                "SubCommands": [
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": ".id",
+                    "ViewName": ".id"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "name",
+                    "ViewName": "name"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "default-name",
+                    "ViewName": "default-name"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "mtu",
+                    "ViewName": "mtu"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "l2mtu",
+                    "ViewName": "l2mtu"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "mac-address",
+                    "ViewName": "mac-address"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "orig-mac-address",
+                    "ViewName": "orig-mac-address"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "arp",
+                    "ViewName": "arp"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "arp-timeout",
+                    "ViewName": "arp-timeout"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "loop-protect",
+                    "ViewName": "loop-protect"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "loop-protect-status",
+                    "ViewName": "loop-protect-status"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "loop-protect-send-interval",
+                    "ViewName": "loop-protect-send-interval"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "loop-protect-disable-time",
+                    "ViewName": "loop-protect-disable-time"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "auto-negotiation",
+                    "ViewName": "auto-negotiation"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "advertise",
+                    "ViewName": "advertise"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-flow-control",
+                    "ViewName": "tx-flow-control"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-flow-control",
+                    "ViewName": "rx-flow-control"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "bandwidth",
+                    "ViewName": "bandwidth"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "switch",
+                    "ViewName": "switch"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "driver-rx-byte",
+                    "ViewName": "driver-rx-byte"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "driver-rx-packet",
+                    "ViewName": "driver-rx-packet"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "driver-tx-byte",
+                    "ViewName": "driver-tx-byte"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "driver-tx-packet",
+                    "ViewName": "driver-tx-packet"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-bytes",
+                    "ViewName": "rx-bytes"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-too-short",
+                    "ViewName": "rx-too-short"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-64",
+                    "ViewName": "rx-64"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-65-127",
+                    "ViewName": "rx-65-127"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-128-255",
+                    "ViewName": "rx-128-255"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-256-511",
+                    "ViewName": "rx-256-511"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-512-1023",
+                    "ViewName": "rx-512-1023"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-1024-1518",
+                    "ViewName": "rx-1024-1518"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-1519-max",
+                    "ViewName": "rx-1519-max"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-too-long",
+                    "ViewName": "rx-too-long"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-broadcast",
+                    "ViewName": "rx-broadcast"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-pause",
+                    "ViewName": "rx-pause"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-multicast",
+                    "ViewName": "rx-multicast"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-fcs-error",
+                    "ViewName": "rx-fcs-error"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-align-error",
+                    "ViewName": "rx-align-error"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-fragment",
+                    "ViewName": "rx-fragment"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "rx-overflow",
+                    "ViewName": "rx-overflow"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-bytes",
+                    "ViewName": "tx-bytes"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-64",
+                    "ViewName": "tx-64"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-65-127",
+                    "ViewName": "tx-65-127"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-128-255",
+                    "ViewName": "tx-128-255"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-256-511",
+                    "ViewName": "tx-256-511"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-512-1023",
+                    "ViewName": "tx-512-1023"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-1024-1518",
+                    "ViewName": "tx-1024-1518"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-1519-max",
+                    "ViewName": "tx-1519-max"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-too-long",
+                    "ViewName": "tx-too-long"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-broadcast",
+                    "ViewName": "tx-broadcast"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-pause",
+                    "ViewName": "tx-pause"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-multicast",
+                    "ViewName": "tx-multicast"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-underrun",
+                    "ViewName": "tx-underrun"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-collision",
+                    "ViewName": "tx-collision"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-excessive-collision",
+                    "ViewName": "tx-excessive-collision"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-multiple-collision",
+                    "ViewName": "tx-multiple-collision"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-single-collision",
+                    "ViewName": "tx-single-collision"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-excessive-deferred",
+                    "ViewName": "tx-excessive-deferred"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-deferred",
+                    "ViewName": "tx-deferred"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "tx-late-collision",
+                    "ViewName": "tx-late-collision"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "running",
+                    "ViewName": "running"
+                  },
+                  {
+                    "SelectedState": false,
+                    "StaticState": true,
+                    "Name": "disabled",
+                    "ViewName": "disabled"
+                  }
+                ]
               }
             ]
           }
