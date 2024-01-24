@@ -82,55 +82,55 @@
                 ]
               },
               {
-                "SelectedState": false,
+                "SelectedState": true,
                 "StaticState": false,
                 "Name": "ip traffic-flow target print",
                 "ViewName": "ip traffic-flow target print",
                 "SubCommands": [
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": ".id",
                     "ViewName": ".id"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "src-address",
                     "ViewName": "src-address"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "dst-address",
                     "ViewName": "dst-address"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "port",
                     "ViewName": "port"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "version",
                     "ViewName": "version"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "v9-template-refresh",
                     "ViewName": "v9-template-refresh"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "v9-template-timeout",
                     "ViewName": "v9-template-timeout"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "disabled",
                     "ViewName": "disabled"
