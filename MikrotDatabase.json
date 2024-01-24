@@ -12,13 +12,13 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "SelectedState": false,
+                "SelectedState": true,
                 "StaticState": false,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
                 "SubCommands": [
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "name",
                     "ViewName": "name"
@@ -82,55 +82,55 @@
                 ]
               },
               {
-                "SelectedState": true,
+                "SelectedState": false,
                 "StaticState": false,
                 "Name": "ip traffic-flow target print",
                 "ViewName": "ip traffic-flow target print",
                 "SubCommands": [
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": ".id",
                     "ViewName": ".id"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "src-address",
                     "ViewName": "src-address"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "dst-address",
                     "ViewName": "dst-address"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "port",
                     "ViewName": "port"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "version",
                     "ViewName": "version"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "v9-template-refresh",
                     "ViewName": "v9-template-refresh"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "v9-template-timeout",
                     "ViewName": "v9-template-timeout"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "disabled",
                     "ViewName": "disabled"
