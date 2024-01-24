@@ -12,13 +12,13 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "SelectedState": false,
+                "SelectedState": true,
                 "StaticState": false,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
                 "SubCommands": [
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "name",
                     "ViewName": "name"
@@ -26,55 +26,55 @@
                 ]
               },
               {
-                "SelectedState": false,
+                "SelectedState": true,
                 "StaticState": false,
                 "Name": "ip traffic-flow print",
                 "ViewName": "ip traffic-flow print",
                 "SubCommands": [
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "enabled",
                     "ViewName": "enabled"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "interfaces",
                     "ViewName": "interfaces"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "cache-entries",
                     "ViewName": "cache-entries"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "active-flow-timeout",
                     "ViewName": "active-flow-timeout"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "inactive-flow-timeout",
                     "ViewName": "inactive-flow-timeout"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "packet-sampling",
                     "ViewName": "packet-sampling"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "sampling-interval",
                     "ViewName": "sampling-interval"
                   },
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": false,
                     "Name": "sampling-space",
                     "ViewName": "sampling-space"
