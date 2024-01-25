@@ -12,13 +12,13 @@
           "commandProp": {
             "mikrotCommands": [
               {
-                "SelectedState": false,
+                "SelectedState": true,
                 "StaticState": false,
                 "Name": "system identity print",
                 "ViewName": "system identity print",
                 "SubCommands": [
                   {
-                    "SelectedState": false,
+                    "SelectedState": true,
                     "StaticState": true,
                     "Name": "name",
                     "ViewName": "name"
@@ -138,73 +138,73 @@
                 ]
               },
               {
-                "SelectedState": true,
+                "SelectedState": false,
                 "StaticState": false,
                 "Name": "snmp print",
                 "ViewName": "snmp print",
                 "SubCommands": [
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "enabled",
                     "ViewName": "enabled"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "contact",
                     "ViewName": "contact"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "location",
                     "ViewName": "location"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "engine-id-suffix",
                     "ViewName": "engine-id-suffix"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "engine-id",
                     "ViewName": "engine-id"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "src-address",
                     "ViewName": "src-address"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "trap-target",
                     "ViewName": "trap-target"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "trap-community",
                     "ViewName": "trap-community"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "trap-version",
                     "ViewName": "trap-version"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "trap-generators",
                     "ViewName": "trap-generators"
                   },
                   {
-                    "SelectedState": true,
+                    "SelectedState": false,
                     "StaticState": true,
                     "Name": "vrf",
                     "ViewName": "vrf"
@@ -212,7 +212,7 @@
                 ]
               },
               {
-                "SelectedState": true,
+                "SelectedState": false,
                 "StaticState": false,
                 "Name": "interface ethernet print",
                 "ViewName": "interface ethernet print",
